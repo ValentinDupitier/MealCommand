@@ -7,8 +7,8 @@ public class MealBuilder {
 	////////////
 	// attributes
 	////////////
-	private ArrayList<Item> items;
-	private double price;
+	public ArrayList<Item> items;
+	public double price;
 
 	////////////
 	// constructor
